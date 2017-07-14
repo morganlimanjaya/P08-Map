@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P08-Map</string>
+    <string name="title">ABC Pte Ltd</string>
+    <string name="info">We now have 3 branches. Look below for the address and info</string>
+
+    <string-array name="arrows_arrays">
+        <item>NORTH</item>
+        <item>CENTRAL</item>
+        <item>EAST</item>
+    </string-array>
+
+</resources>
